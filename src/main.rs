@@ -7,6 +7,7 @@ mod p9_palindrome_number;
 mod p11_container_most_water;
 mod p13_roman_to_int;
 mod p15_3sum;
+mod p20_valid_paranthesis;
 
 fn main() {
     println!("Hello, world!");
